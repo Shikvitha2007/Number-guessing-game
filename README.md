@@ -9,3 +9,5 @@ A simple Python game where the player tries to guess a randomly generated number
 - Tracks number of attempts
 
 ## ▶️ How to Run
+```bash
+python guess_the_number.py
